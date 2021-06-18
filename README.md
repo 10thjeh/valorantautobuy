@@ -21,3 +21,5 @@ Press F1 to trigger the autobuy, make sure the shop is closed so the script can 
 
 # Status of the project
 Currently it is still beta and hardcoded, still working on the configs so you can choose your autobuy settings
+
+Tested on 1080p and 720p
