@@ -3,6 +3,10 @@ Python script for automating valorant buy
 
 The demo can be found [here](https://youtu.be/tKZmf_kqllo)
 
+# Dependency
+
+[pyautogui](https://pypi.org/project/PyAutoGUI/) and [pynput](https://pypi.org/project/pynput/)
+
 # Starting the script
 1. open valorant
 2. open main.py (python3 -m main.py, or other command you use for running py script)
