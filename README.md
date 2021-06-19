@@ -9,7 +9,7 @@ The demo can be found [here](https://youtu.be/tKZmf_kqllo)
 
 # Starting the script
 1. open valorant
-2. open main.py (python3 -m main.py, or other command you use for running py script)
+2. open main.py (python -m main.py, or other command you use for running py script)
 3. press f1 to autobuy
 4. press f12 to stop the script
 
