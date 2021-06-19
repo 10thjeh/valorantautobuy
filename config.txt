@@ -1,0 +1,5 @@
+vandal
+sheriff
+big_shield
+ability_1
+ability_2
